@@ -109,7 +109,7 @@ uvicorn main:app --reload
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/dzalhaqi/pa-mlops/blob/main/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/dzalhaqi/fastapi-orm-cqrs-fitness-management-system/blob/main/LICENSE.md) for more information.
 
 ## Acknowledgements
 
